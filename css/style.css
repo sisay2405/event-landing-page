@@ -1,0 +1,136 @@
+*{
+    padding:0;
+    margin:0
+}
+.moqup{
+    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.clearStatement{
+    background-color: whitesmoke;
+    height: 150px;
+    text-align: center
+}
+.TheSpeakers{
+    text-align: center
+}
+.getTicket{
+    text-align: center
+}
+.moqups{
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+}
+.carts{
+    text-align: left;
+}
+.Venue{
+height: 400px;
+}
+.speakerPage{
+    padding:20px;
+}  
+ /* .carts{ 
+    justify-content: space-between;
+ }   */
+footer{
+    height: 55px;
+}
+.hstack{
+    padding-top: 20px;
+}
+@media screen and (min-width: 480px) {
+ 
+    .speakerPage{
+        /* background: rgb(30, 11, 177); */
+        margin: 0 50px ; 
+        
+      }
+  }
+  @media screen and (min-width: 768px) {
+ 
+    .speakerPage{
+        /* background: rgb(177, 152, 11); */
+        margin: 0 250px ; 
+      }
+  }
+  @media screen and (min-width: 1024px) {
+  
+    .speakerPage{
+        /* background: rgb(176, 143, 159); */
+        margin: 0 450px ; 
+    /* background: green; */
+      }
+  }
+  
+/* .dd{
+    position: left;
+} */
+/* .GoogleMap{
+    padding-bottom: 2px;
+} */
+/* .theVenue{ */
+    /* background-color: rgb(150, 141, 202);  */
+    /* height: 160px;  */
+/* } */
+
+
+/* .clear{
+position: relative;
+}
+.firstimage{
+position: absolute;
+} */
+/* .lastImag{
+padding-top: 30px;
+} */
+
+  /* .fa { */
+    /* padding: 20px; */
+    /* font-size: 30px; */
+    /* width: 100px; */
+    /* text-align: center; */
+    /* text-decoration: none; */
+    /* margin: 5px 2px; */
+  /* } */
+  
+  /* .fa-facebook { */
+    /* background: #983b52; */
+    /* color: white; */
+  /* } */
+  
+  /* .fa-twitter { */
+    /* background: #55ACEE; */
+    /* color: white; */
+  /* } */
+  
+  
+  /* .fa-instagram { */
+    /* background: #128841; */
+    /* color: white; */
+    /* width: 10px; */
+  /* } */
+/* .lastImag{ */
+ /* background-image: url("../IMG/noPhoto.png"); */
+ /* background-repeat: no-repeat; */
+/* background-size: 100%; */
+/* height: 200px; */
+/* position: absolute; */
+/* width: 100%; */
+/* background-position: center;  */
+/* } */
+
+/* .gg { */
+    /* text-align: center; */
+    /* background-image: url("../IMG/noPhoto.png"); */
+    /* background-repeat: no-repeat;
+background-size: 100%;
+height: 200px;
+position: absolute;
+width: 100%;
+background-position: center; */
+
+/* } */
+/* .second-order1{
+ position: absolute;
+}  */
