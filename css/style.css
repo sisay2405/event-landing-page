@@ -1,80 +1,50 @@
 *{
     padding:0;
     margin:0
-}
-.moqup{
-    font-family: 'Lobster', cursive;
-    font-family: 'Roboto', sans-serif;
-}
-.clearStatement{
-    background-color: whitesmoke;
-    height: 150px;
-    text-align: center
-}
-.TheSpeakers{
-    text-align: center
-}
-.getTicket{
-    text-align: center
-}
-.moqups{
+  }
+  .moqups{
     font-size: 20px;
     font-family: 'Lobster', cursive;
-}
-.carts{
-    text-align: left;
-}
-.Venue{
-height: 400px;
-}
-.speakerPage{
-    padding:20px;
-}  
-.gg{
-    background-image: url(../IMG/noPhoto.png);
-    background-repeat: no-repeat;
-    background-position: center top;
-    /* position:absolute; */
-    
-
-}
-/* .gg { */
-    /* text-align: center; */
-    /* background-image: url("../IMG/noPhoto.png"); */
-    /* background-repeat: no-repeat;
-background-size: 100%;
-height: 200px;
-position: absolute;
-width: 100%;
-background-position: center; */
-
-/* } */
-footer{
-    height: 55px;
-}
-.hstack{
-    padding-top: 20px;
-}
-@media screen and (min-width: 480px) {
- 
-    .speakerPage{
-        /* background: rgb(30, 11, 177); */
-        margin: 0 50px ; 
-        
-      }
   }
-  @media screen and (min-width: 768px) {
- 
-    .speakerPage{
-        /* background: rgb(177, 152, 11); */
-        margin: 0 250px ; 
-      }
-  }
-  @media screen and (min-width: 1024px) {
+  .clearStatement{
+    background-color: whitesmoke;
+    background: #ecf1f5 url("../IMG/0eca.jpg") no-repeat center / contain;
   
-    .speakerPage{
-        /* background: rgb(176, 143, 159); */
-        margin: 0 450px ; 
-    /* background: green; */
-      }
+    height: 250px;
+    text-align: center
   }
+  .clearStatement2{
+    height: 250px;
+    text-align: center
+  }
+  
+  .Venue2{
+    height: 400px;
+    }
+  
+  
+  .hstack{
+      padding-top: 15px;
+     
+  }
+  .fa-instagram{
+    font-family:"FontAwesome";
+    content: "\f16d";
+    color: #3F729B;
+    font-size: 15px;
+  
+  }
+  .fa-facebook-square{
+    font-family:"FontAwesome";
+    content: "\f082";
+    color: #4267B2;
+    font-size: 15px;
+    
+  }
+  .fa-twitter{
+    font-family:"FontAwesome";
+    content: "\f099";
+    color: #00ACEE;
+    font-size: 15px;
+  }
+  
